@@ -1,0 +1,23 @@
+{
+  "name": "node-mqtt",
+  "version": "1.0.0",
+  "description": "MQTT broker in Node.js. Usable as both a standalone server as well as a Node.js module.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengjiaqi/node-mqtt.git"
+  },
+  "keywords": [
+    "mqtt",
+    "node-mqtt"
+  ],
+  "author": "Pluto Meng <mengjq08@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mengjiaqi/node-mqtt/issues"
+  },
+  "homepage": "https://github.com/mengjiaqi/node-mqtt#readme"
+}
